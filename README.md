@@ -30,4 +30,5 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 - **Email:** abdullahattallah853@gmail.com
 - **LinkedIn:** [linkedin.com/in/Abdullah](https://www.linkedin.com/in/abdullah-data-science/)
 - **GitHub:** [github.com/Abdullah](https://github.com/Abdullah-Attallah)
+- **Kaggle:** [kaggle.com/Abdullah](https://www.kaggle.com/abdullahahmed98)
 
