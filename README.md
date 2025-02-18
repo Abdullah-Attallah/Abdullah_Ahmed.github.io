@@ -1,11 +1,6 @@
 # Abdullah Ahmed Attallah
 
 Machine Learning Engineer | Data Scientist
-## Contact
-
-- **Email:** john.doe@example.com
-- **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
 
 ## About Me
 
@@ -16,29 +11,23 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ## Projects
 
-### [Project Title 1]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies or tools used]
-- **Outcome:** [What was achieved or the impact of the project]
+### Fruit and Vegetables_recognition
+- **Description:** The fruit and vegetable datasets contain image data representing various types of fruits and vegetables.
+- **[View Project on Kaggle →](https://www.kaggle.com/code/abdullahahmed98/fruit-and-vegetables-recognition)**
 
-### [Project Title 2]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** [List of technologies or tools used]
-- **Outcome:** [What was achieved or the impact of the project]
+### Credit Card Approval
+- **Description:** Credit card approval is a critical process in the financial sector.
+- **[View Project on Kaggle →](https://www.kaggle.com/code/abdullahahmed98/credit-card-approval)**
 
-## Skills
+### Breast Cancer
+- **Description:** In this project, I aim to predict [Malignant and Benign] using [Breast Cancer]. I will apply multiple machine learning models to identify the best performing one.
+- **[View Project on Kaggle →](https://www.kaggle.com/code/abdullahahmed98/breast-cancer)**
 
-- **Programming Languages:** [List of languages you are proficient in]
-- **Frameworks & Libraries:** [List of frameworks and libraries you are familiar with]
-- **Tools & Platforms:** [List of tools and platforms you have experience with]
 
-## Education
-
-- **[Degree, e.g., Bachelor of Science in Computer Science]**  
-  [University Name], [Graduation Year]
 
 ## Contact
 
-- **Email:** [Your email address]
-- **LinkedIn:** [Your LinkedIn profile URL]
-- **GitHub:** [Your GitHub profile URL]
+- **Email:** abdullahattallah853@gmail.com
+- **LinkedIn:** [linkedin.com/in/Abdullah](https://www.linkedin.com/in/abdullah-data-science/)
+- **GitHub:** [github.com/Abdullah](https://github.com/Abdullah-Attallah)
+
